@@ -17,23 +17,23 @@ h2 {
 p.back{
   background-image: url('download.jpg');
   color: white;
-  margin-left: 20px
+  margin-left: 20px;
   width:1000px
   height:100%
 }
 dwn2{
   background-image:url(‘download 1.jpg);
   color: white;
-  margin-left: 20px
+  margin-left: 20px;
 }
 dwn3{
   background-image:url(‘download 2.jpg’);
   color: black;
-  margin-left: 20px
+  margin-left: 20px;
 }
 dwn4{
   
   background-image:url('download 3.jpg');
   color: black;
-  margin-left: 200px
+  margin-left: 200px;
 }
