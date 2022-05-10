@@ -1,0 +1,39 @@
+background-color: white;
+}
+
+h1 {
+  background-color: white;
+  color: red;
+  margin-left: 20px;
+  width:10px
+}
+h2 {
+  background-color: white;
+  color: white;
+  margin-left: 20px;
+ width:1000px
+
+}
+p.back{
+  background-image: url('download.jpg');
+  color: white;
+  margin-left: 20px
+  width:1000px
+  height:100%
+}
+dwn2{
+  background-image:url(‘download 1.jpg);
+  color: white;
+  margin-left: 20px
+}
+dwn3{
+  background-image:url(‘download 2.jpg’);
+  color: black;
+  margin-left: 20px
+}
+dwn4{
+  
+  background-color: white;
+  color: black;
+  margin-left: 200px
+}
